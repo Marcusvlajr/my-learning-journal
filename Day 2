@@ -1,0 +1,27 @@
+
+# Day 2: Deepening My Knowledge
+
+## **Learning the Basics of Code**
+- Spent 30 minutes learning the basics of code using **cursor.sh**.
+- Followed a **15-minute block plan** to stay focused and productive.
+
+## **n8n Concepts**
+- Read about n8n concepts, including nodes, workflows, and triggers.
+- Learned how to monitor websites using n8n.
+
+## **Built a Website Monitoring Workflow**
+- Created a workflow in n8n to monitor a website:
+  - Used the **HTTP Request Node** to check the website’s status.
+  - Added a **Condition Node** to send an alert if the website is down.
+  - Tested the workflow and verified it works.
+
+## **Next Steps**
+- Fix the **Write to File Node** issue.
+- Explore more n8n nodes and workflows.
+- Document my progress as I continue learning.
+
+---
+
+## **Resources**
+- [n8n Documentation](https://docs.n8n.io)
+- [Cursor.ai](https://cursor.ai)
