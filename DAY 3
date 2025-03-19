@@ -1,0 +1,28 @@
+# Day 3: Exploring APIs
+
+## **API Fundamentals**
+- Learned about API fundamentals, including HTTP methods (GET, POST, PUT, DELETE).
+- Used **Cursor AI** to help me understand how APIs work.
+
+## **Testing APIs with Postman**
+- Installed **Postman** to test APIs.
+- Tested a public API (e.g., `https://jsonplaceholder.typicode.com/posts`).
+- Sent GET requests and analyzed the responses.
+
+## **Created a Workflow in n8n**
+- Built a workflow in n8n to fetch and process data from a public API:
+  - Used the **HTTP Request Node** to fetch data from `https://jsonplaceholder.typicode.com/posts`.
+  - Added a **Code Node** to process the data (e.g., extract specific fields).
+  - Saved the processed data to a file using the **Write to File Node**.
+
+## **Next Steps**
+- Fix the **Write to File Node** issue.
+- Explore more n8n nodes and workflows.
+- Document my progress as I continue learning.
+
+---
+
+## **Resources**
+- [n8n Documentation](https://docs.n8n.io)
+- [Postman](https://www.postman.com)
+- [Cursor.sh](https://cursor.sh)
