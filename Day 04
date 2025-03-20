@@ -1,0 +1,28 @@
+# Day 4: Exploring OpenAI and Prompt Engineering
+
+## **OpenAI API Setup**
+- Created an **OpenAI API account**.
+- Generated my **API key** and understood the rate limits.
+
+## **n8n OpenAI Node**
+- Read the [n8n OpenAI node guide](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.openai/).
+- Created a simple **text completion workflow** using the OpenAI node:
+  - Used the **OpenAI Node** to generate text completions.
+  - Tested the workflow with different prompts.
+
+## **Prompt Engineering**
+- Read the [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering).
+- Experimented with different prompts and observed the outputs.
+- Learned how to craft effective prompts for better results.
+
+## **Next Steps**
+- Explore more advanced OpenAI workflows (e.g., chat completions, fine-tuning).
+- Experiment with different prompt engineering techniques.
+- Document my progress as I continue learning.
+
+---
+
+## **Resources**
+- [n8n Documentation](https://docs.n8n.io)
+- [OpenAI API Documentation](https://platform.openai.com/docs/)
+- [Cursor.sh](https://cursor.sh)
